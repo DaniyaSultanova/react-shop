@@ -6,7 +6,7 @@
   "homepage": "https://daniyasultanova.github.io/react-shop/",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite dist",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "pnpm run build",
